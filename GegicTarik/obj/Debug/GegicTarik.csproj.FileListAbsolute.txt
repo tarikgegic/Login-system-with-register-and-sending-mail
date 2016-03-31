@@ -1,0 +1,58 @@
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\GegicTarik.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\GegicTarik.pdb
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\Antlr3.Runtime.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\EntityFramework.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\Newtonsoft.Json.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\SimpleCrypto.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Mvc.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Optimization.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Providers.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Razor.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.Deployment.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.Razor.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\WebGrease.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\EntityFramework.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\Newtonsoft.Json.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Mvc.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.Razor.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.Deployment.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\bin\System.Web.WebPages.Razor.xml
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\obj\Debug\GegicTarik.dll
+c:\users\tarik\documents\visual studio 2012\Projects\GegicTarik\GegicTarik\obj\Debug\GegicTarik.pdb
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\GegicTarik.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\GegicTarik.pdb
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\Antlr3.Runtime.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\EntityFramework.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\Newtonsoft.Json.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\SimpleCrypto.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Net.Http.Formatting.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Http.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Http.WebHost.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Mvc.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Optimization.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Providers.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Razor.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\WebGrease.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\EntityFramework.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\Newtonsoft.Json.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Net.Http.Formatting.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Http.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Http.WebHost.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Mvc.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.Razor.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\obj\Debug\GegicTarik.csprojResolveAssemblyReference.cache
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\obj\Debug\GegicTarik.dll
+C:\Users\Tarik\Desktop\GegicTarik\GegicTarik\obj\Debug\GegicTarik.pdb
+C:\Users\Tarik\Documents\Visual Studio 2012\Projects\GegicTarik\GegicTarik\obj\Debug\GegicTarik.csprojResolveAssemblyReference.cache

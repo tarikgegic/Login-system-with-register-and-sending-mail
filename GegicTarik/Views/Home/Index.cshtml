@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="width: auto; text-align: center;">
+@if(!User.Identity.IsAuthenticated){
+
+<h4>If you are not registered, please register.</h4>
+    <h4>If you have registered, then you can log in</h4>   
+
+}
+    </div>

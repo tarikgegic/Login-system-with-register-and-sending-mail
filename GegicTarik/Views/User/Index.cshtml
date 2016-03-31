@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    GegicTarik.MyMainDbContent db = new GegicTarik.MyMainDbContent();
+}
+
+
+@using (Html.BeginForm("FileUpload", "User", FormMethod.Post,new { enctype = "multipart/form-data" }))
+{
+    if(User.Identity.IsAuthenticated){
+        
+        
+<div style="width:auto; text-align:center;">
+ 
+    Image<br />
+    <input type="file" name="file" id="file" /> <br />
+    <input type="submit" value="Upload" />
+    </div> 
+    }
+    <div style="text-align:center; position:absolute;">
+        <div style="width:10%; margin:auto; ">
+            <table>
+                <tfoot>
+                    @foreach (var name in db.SystemUsers)
+                    {
+                        <tr>
+                            <td>
+                                <div>
+                                    <label> @name.Email</label>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                
+                </tfoot>
+            </table>
+        </div>
+    </div>
+    <div style="text-align: center;">
+        <div style="width: 10%; margin: auto;">
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in db.Image)
+                    {
+                        <tr>
+                            <td>
+                                <div>
+                                    <img src="~/Content/Images/@item.imageUrl" style="width:100px; height:100px;text-align:center;"/>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                
+            </table>
+        </div>
+    </div>
+}
