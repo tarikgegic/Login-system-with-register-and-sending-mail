@@ -29,6 +29,7 @@ namespace GegicTarik.Controllers
                 string ImageName = System.IO.Path.GetFileName(file.FileName);
                 string physicalPath = Server.MapPath("~/Content/Images/" + ImageName);
 
+
                 file.SaveAs(physicalPath);
 
                 Image newImage = new Image();
@@ -134,15 +135,15 @@ namespace GegicTarik.Controllers
         protected void SendMail(UserModel user)
         {
             // Gmail Address from where you send the mail
-            var fromAddress = "GegicTa@gmail.com";
+            var fromAddress = "YourEmail@gmail.com";
             // any address where the email will be sending
             var toAddress = user.Email;
             //Password of your gmail address
-            const string fromPassword = "TarikProject";
+            const string fromPassword = "YourPassword";
             // Passing the values and make a email formate to display
             string subject = "Register successful!";
             string body = "Dear " + user.Email + ",\n";
-            body += " Now when you are registered can you enjoy\n";
+            body += " Now when you are registered you can enjoy\n";
 
             // smtp settings
             var smtp = new System.Net.Mail.SmtpClient();
